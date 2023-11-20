@@ -1,8 +1,8 @@
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/logo.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/logo.png?raw=true)
 
 # DESMOS
 
-[![Alt text](https://raw.githubusercontent.com/NORWA/master/github/login.png)](https://www.youtube.com/shorts/73r4rukUae0)
+[![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/login.jpg?raw=true)](https://www.youtube.com/shorts/73r4rukUae0)
 
 ## Aplicación
 
@@ -36,51 +36,51 @@ DESMOS
 
 #### Login
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/login.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/login.jpg?raw=true)
 
 <br>
 
 #### Inicio
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/inicio.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/Inicio.jpg?raw=true)
 
 <br>
 
 #### Hora de toma
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/hora-de-toma.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/pantalla-de-toma.jpg?raw=true)
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/hora-toma.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/hora-toma.jpg?raw=true)
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/hora-toma-pasada.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/hora-toma-pasada.jpg?raw=true)
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/aviso-no-toma.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/hora-toma-pasada.jpg?raw=true)
 
 <br>
 
 #### Videollamada
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/images/videollamada-voluntario.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/llamada-voluntario.jpg?raw=true)
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/images/videollamada-paciente.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/llamada-paciente.jpg?raw=true)
 
 <br>
 
 #### Encuesta final (solo voluntarios)
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/images/encuesta.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/encuesta.jpg?raw=true)
 
 #### ChatBot
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/images/chatbot.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/chatbot.jpg?raw=true)
 
 #### Recompensas
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/images/recompensas.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/recompensas.jpg?raw=true)
 
-#### Recompensas
+#### Calendario
 
-![Alt text](https://raw.githubusercontent.com/NORWA/master/github/images/calendario.png)
+![Alt text](https://github.com/drosell271/Norwa-Colaboracion-ComprometidosConElPaciente/blob/main/github/calendario.jpg?raw=true)
 
 <br><br>
 
