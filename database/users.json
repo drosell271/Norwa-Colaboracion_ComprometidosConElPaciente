@@ -1,0 +1,16 @@
+[
+	{
+		"username": "paciente",
+		"password": "1234",
+		"Pareja": 1,
+		"Voluntario": false,
+		"Hora": "22:48"
+	},
+	{
+		"username": "voluntario",
+		"password": "1234",
+		"Pareja": 1,
+		"Voluntario": true,
+		"Hora": "22:48"
+	}
+]
